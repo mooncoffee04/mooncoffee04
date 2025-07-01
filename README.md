@@ -1,14 +1,14 @@
-<h1 align="center">Hi there! 🌸 I'm Laavanya <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="200" alt="Sleeping Cat"/></h1>
+<h1 align="center">Hi there! 🌸 I'm Laavanya <img src="https://media.giphy.com/media/10WnOHz9zRgHJK/giphy.gif" width="40" /></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59FC9&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%94%8E;Builder+of+Comprehensive+AI+Projects+%F0%9F%A4%96;Pixel+Art+Lover+%F0%9F%8E%A8;Working+on+Clinical+AI+Tools+%F0%9F%8C%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59FC9&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%94%8E;Builder+of+AI+Projects+%F0%9F%A4%96;Pixel+Art+Lover+%F0%9F%8E%A8;Working+on+Clinical+AI+Tools+%F0%9F%8C%90" />
 </p>
 
 ---
 
 ### 👩‍🔬 About Me
 
-- 🧠 Building: Multimodal Clinical Insight Assistant    
+- 🧠 Building: Travel Agent Automation    
 - 🧵 Hobbies: Sleeping (a lot) & Solving Problems :)
 - 🌱 Learning: AI/ML, UI/UX & Full-Stack Dev  
 - 🛠️ Tools I love: `Python`, `Streamlit`, `Neo4j`, `Whisper`, `Gemini`, `Docker`
