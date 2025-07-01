@@ -8,10 +8,9 @@
 
 ### 👩‍🔬 About Me
 
-- 🧠 Building: Multimodal Clinical Insight Assistant  
-- ✨ Dream Project: Studio Ghibli-styled VTube Stats Teacher  
-- 🧵 Hobbies: Crochet, pixel art, vlogging drones, teaching AI  
-- 🌱 Learning: UI/UX & Full-Stack Dev  
+- 🧠 Building: Multimodal Clinical Insight Assistant    
+- 🧵 Hobbies: Sleeping (a lot) & Solving Problems :)
+- 🌱 Learning: AI/ML, UI/UX & Full-Stack Dev  
 - 🛠️ Tools I love: `Python`, `Streamlit`, `Neo4j`, `Whisper`, `Gemini`, `Docker`
 
 ---
@@ -20,12 +19,12 @@
 | 🌟 Project | 🔗 Link | 💬 Description |
 |-----------|---------|----------------|
 | 🧠 Clinical Insight Agent | [View Repo](https://github.com/mooncoffee04/assignment) | Neo4j + Streamlit + Gemini + SeaweedFS |
-| Hospital Booking Management System | [View Repo](https://github.com/mooncoffee04/booking-system)
+| Hospital Booking Management System | [View Repo](https://github.com/mooncoffee04/booking-system) | Python + Django |
 ---
 
 ### 🖥️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,docker,neo4j,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=python,streamlit,docker,neo4j,html,css,javascript,lovable,postgresql,mysql,oracle" />
 </p>
 
 ---
