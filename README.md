@@ -1,42 +1,68 @@
-<h1 align="center">Konnichiwa! I'm Laavanya 🌸 </h1>
+<h1 align="center">Moshi Moshi! I'm Laavanya 🌙☕</h1>
+<p align="center">✨ sipping coffee under the moon while crafting cute AI ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59FC9&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%94%8E;Builder+of+AI+Projects+%F0%9F%A4%96;Pixel+Art+Lover+%F0%9F%8E%A8;Working+on+Clinical+AI+Tools+%F0%9F%8C%90"/>
+  <img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="180" alt="Sleeping Cat" />
 </p>
 
 ---
 
-### 👩‍🔬 About Me
+### 🌸 About Me
 
-- 🧠 Building: Travel Agent Automation    
-- 🧵 Hobbies: Sleeping (a lot) & Solving Problems :)
-- 🌱 Learning: AI/ML, UI/UX & Full-Stack Dev  
-- 🛠️ Tools I love: `Python`, `Streamlit`, `Neo4j`, `Whisper`, `Gemini`, `Docker`
+- 🎓 **B.Tech in Data Science**, NMIMS MPSTME (2026)  
+- 🏆 Winner of **Ekathon 2025** (EkaCare Hackathon)  
+- 🧠 Currently building **clinical AI tools**, research intern @ IIM Mumbai  
+- 🪄 Obsessed with making tech **cute, useful & user-friendly**  
+- ✨ Exploring: Pixel art, VTubing, Ghibli-themed video learning
 
 ---
 
-### 🌼 Projects I’m Proud Of
-| 🌟 Project | 🔗 Link | 💬 Description |
-|-----------|---------|----------------|
-| 🧠 Clinical Insight Agent | [View Repo](https://github.com/mooncoffee04/assignment) | Neo4j + Streamlit + Gemini + SeaweedFS |
-| 🩺 Hospital Booking Management System | [View Repo](https://github.com/mooncoffee04/booking-system) | Python + Django |
+### 💻 Tech Stack
+
+**Languages**  
+`Python` `R` `SQL` `HTML/CSS` `JavaScript (basic)`
+
+**Frameworks & Tools**  
+`Streamlit` `TensorFlow` `OpenCV` `Keras` `Seaborn` `Matplotlib` `Pandas` `NumPy`
+
+**Visualization & Analysis**  
+`Excel` `Tableau` `PowerBI` `MySQL`
+
+**Concepts**  
+`ML & AI` `Deep Learning` `Statistics` `AWS Cloud`
+
 ---
 
-### 🖥️ Tech Stack
+### 🧁 Featured Projects
+
+| 🍰 Project | 🌕 Description | 🔗 Link |
+|-----------|---------------|--------|
+| **VoiceRX** | Voice-powered clinical note generator using Whisper + Gemini | *(Private/Coming Soon)* |
+| **EkaMediBridge** | 🎤 Voice assistant + SNOMED CT clinical notes built at Ekathon 2025 | [Ekathon Post](https://www.linkedin.com/posts/ekacare_ekathon-2025-winners-activity-7337767965225799680-dKZp) |
+| **Posture Corrector** | Detects slouching using MediaPipe + SVM; alerts users | *(Coming Soon)* |
+| **Booking System** | Django-based hospital appointment system | [View Repo](https://github.com/mooncoffee04/booking-system) |
+
+---
+
+### 🌟 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,streamlit,docker,neo4j,html,css,javascript,lovable,postgresql,mysql,aws" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mooncoffee04&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mooncoffee04&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-### 🎀 Let’s Connect!
+### 🌱 Let’s Connect
+
 <p align="center">
-  <a href="www.linkedin.com/in/laavanya-mishra-0157752b9"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[github.com/mooncoffee04](https://github.com/mooncoffee04)"><img src="https://img.shields.io/badge/Portfolio-Fancy🪄-pink?style=for-the-badge"/></a>
+  <a href="mailto:mishralaavanya@gmail.com"><img src="https://img.shields.io/badge/Email-mishralaavanya@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/posts/ekacare_ekathon-2025-winners-activity-7337767965225799680-dKZp"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mooncoffee04"><img src="https://img.shields.io/badge/GitHub-mooncoffee04-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
-> "Falling down is an accident, but staying down is a choice".
->  Rosemary Nonny Knight
-
+<p align="center">
+  <i>“May your coffee be warm and your ideas infinite.” ☕🌙</i>
+</p>
