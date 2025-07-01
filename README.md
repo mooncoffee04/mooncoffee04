@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🌸 I'm Laavanya <img src="https://media.giphy.com/media/10WnOHz9zRgHJK/giphy.gif" width="40" /></h1>
+<h1 align="center">Konnichiwa! I'm Laavanya 🌸 </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F59FC9&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%94%8E;Builder+of+AI+Projects+%F0%9F%A4%96;Pixel+Art+Lover+%F0%9F%8E%A8;Working+on+Clinical+AI+Tools+%F0%9F%8C%90"/>
